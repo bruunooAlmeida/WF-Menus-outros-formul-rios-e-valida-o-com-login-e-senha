@@ -20,3 +20,6 @@
 
 ## 🚀 Skills
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#"/></code>
+
+## Projeto Inicial
+![alt text](/image/Projeto_Inicial.png)
