@@ -120,7 +120,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(432, 119);
+            ClientSize = new Size(398, 119);
             Controls.Add(Btn_Sair);
             Controls.Add(Btn_ValidaCPF);
             Controls.Add(Btn_ValidaSenha);

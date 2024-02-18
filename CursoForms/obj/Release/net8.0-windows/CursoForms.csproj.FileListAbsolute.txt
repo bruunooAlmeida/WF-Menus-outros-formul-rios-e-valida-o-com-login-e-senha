@@ -19,3 +19,25 @@ D:\Alura c#\WindowsForm\CursoForms\CursoForms\obj\Release\net8.0-windows\refint\
 D:\Alura c#\WindowsForm\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.pdb
 D:\Alura c#\WindowsForm\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.genruntimeconfig.cache
 D:\Alura c#\WindowsForm\CursoForms\CursoForms\obj\Release\net8.0-windows\ref\CursoForms.dll
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoWindowsForms.Frm_DemonstracaoKey.resources
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoWindowsForms.Frm_Mascara.resources
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoWindowsForms.Frm_Principal.resources
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoWindowsForms.Frm_ValidaSenha.resources
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.Properties.Resources.resources
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.csproj.GenerateResource.cache
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.AssemblyInfoInputs.cache
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.AssemblyInfo.cs
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.csproj.CoreCompileInputs.cache
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.sourcelink.json
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\bin\Release\net8.0-windows\CursoForms.exe
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\bin\Release\net8.0-windows\CursoForms.dll.config
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\bin\Release\net8.0-windows\CursoForms.deps.json
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\bin\Release\net8.0-windows\CursoForms.runtimeconfig.json
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\bin\Release\net8.0-windows\CursoForms.dll
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\bin\Release\net8.0-windows\CursoForms.pdb
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.dll
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\refint\CursoForms.dll
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.pdb
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\CursoForms.genruntimeconfig.cache
+D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\obj\Release\net8.0-windows\ref\CursoForms.dll

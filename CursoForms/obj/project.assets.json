@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alura c#\\WindowsForm\\CursoForms\\CursoForms\\CursoForms.csproj",
+      "projectUniqueName": "D:\\Alura c#\\WindowsForm - Evoluindo Projeto\\CursoForms\\CursoForms\\CursoForms.csproj",
       "projectName": "CursoForms",
-      "projectPath": "D:\\Alura c#\\WindowsForm\\CursoForms\\CursoForms\\CursoForms.csproj",
+      "projectPath": "D:\\Alura c#\\WindowsForm - Evoluindo Projeto\\CursoForms\\CursoForms\\CursoForms.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Alura c#\\WindowsForm\\CursoForms\\CursoForms\\obj\\",
+      "outputPath": "D:\\Alura c#\\WindowsForm - Evoluindo Projeto\\CursoForms\\CursoForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

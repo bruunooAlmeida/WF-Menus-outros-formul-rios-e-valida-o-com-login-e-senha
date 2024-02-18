@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CursoForms
-build_property.ProjectDir = D:\Alura c#\WindowsForm\CursoForms\CursoForms\
+build_property.ProjectDir = D:\Alura c#\WindowsForm - Evoluindo Projeto\CursoForms\CursoForms\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
